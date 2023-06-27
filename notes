@@ -1,0 +1,21 @@
+large language models or LLMs, there have been broadly two types:--
+Base LLM has been trained to predict the next word based on text training data.
+Instruction-tuned LLM has been trained to follow instructions.  RLHF, reinforcement learning from human feedback, to make the system better able to be helpful and follow instructions.
+Principle 1 = Write clear and specific instructions. (give successful examples)
+Principle 2 - Give the model time to think (specify the steps to complete a task / intruct model to work out its own solution before rushing to a conclusion)
+Model Limitations = It might try to answer questions about obscure topics and can make things up that sound plausible but are not actually true. And we call these fabricated ideas hallucinations. 
+ 
+Conversational AI: Apply for roles related to conversational AI, such as Conversational AI Engineer or Dialog System Developer. You can work on designing and building AI-powered chatbots, virtual assistants, or voice-based interfaces.
+
+Iterative prompt development --> Idea => Implementation --> Result --> Error analysis => Refine the idea and the prompt.
+
+Extract and summarise
+
+Inferring = sentiment analysis.
+Zero shot algorithm --> No training data with label is fed.
+
+Transforming --> HTML to json; english mein question; hindi mein reply
+
+Expanding --> Danger @ write a spam; TEMPERATURE =0 to 1 (varied answers)
+
+Making a chatbot
